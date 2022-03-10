@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-10T10:51:50 IST" name="Default suite" finished-at="2022-03-10T10:51:50 IST" duration-ms="102">
+    <groups>
+    </groups>
+    <test started-at="2022-03-10T10:51:50 IST" name="Default test" finished-at="2022-03-10T10:51:50 IST" duration-ms="102">
+      <class name="ComCastcrmGit.ComCastCRMGitpractice">
+        <test-method signature="Githubpractice()[pri:0, instance:ComCastcrmGit.ComCastCRMGitpractice@78ffe6dc]" started-at="2022-03-10T10:51:50 IST" name="Githubpractice" finished-at="2022-03-10T10:51:50 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Githubpractice -->
+      </class> <!-- ComCastcrmGit.ComCastCRMGitpractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
